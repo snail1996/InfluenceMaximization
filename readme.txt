@@ -1,0 +1,8 @@
+源代码有7个Python文件，分别是1_IM_algorithm_IMM.py、2_IM_algorithm_OPT.py、3_IM_algorithm_CCA_DCA.py、4_influence_compare(No_IMM).py、5_time_compare.py、6_influence_compare(IMM).py和7_influence_compare(OPT).py，各个文件的作用如下：
+1_IM_algorithm_IMM.py包含IMM算法
+2_IM_algorithm_OPT.py包含OPT算法
+3_IM_algorithm_CCA_DCA.py包含CCA和DCA两种IM算法
+4_influence_compare(No_IMM).py为CCA和DCA启发式算法影响力效果对比
+5_time_compare.py为CCA和DCA启发式算法时间对比
+6_influence_compare(IMM).py为CCA、DCA、IMM影响力效果对比
+7_influence_compare(OPT).py为CCA、DCA、IMM、OPT影响力效果对比
